@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(248, 209, 227);
+}
+    
+header {
+    color: white;
+    margin: 5px; 
+}
+nav{
+    background-color: rgb(141, 1, 87);
+    
+}
+.nav-items{
+  display: flex;
+  flex-direction: row-reverse;
+}
