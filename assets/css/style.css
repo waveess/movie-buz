@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: #fcf2ec;
+    background-color: #181311c2;
 }
     
 header {
@@ -12,7 +12,7 @@ header {
     margin: 5px; 
 }
 nav{
-    background-color: rgb(3, 1, 0);
+    background-color: rgb(255, 185, 151);
     
 }
 .nav-items{
@@ -20,7 +20,7 @@ nav{
   flex-direction: row-reverse;
 }
 .container{
-    background-color: rgb(151, 106, 89);
+    background-color: rgb(255, 204, 185);
     color: white;
     border-radius: 10px;
 }
